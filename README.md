@@ -16,7 +16,7 @@
 | 12  | chrome の設定ページを開く            | alt + E, S            | Command + Comma key                |
 | 13  | 新しい window を開く                 | ctrl + N              | Command + N                        |
 | 14  | 現在の window を閉じる               | ctrl + W              | Command + shift + W                |
-| 15  | 　ページの最小化                     | ctrl + down arrow key | Command + M                        |
+| 15  | ページの最小化                       | ctrl + down arrow key | Command + M                        |
 | 16  | ページの最大化                       | ctrl + Up arrow key   | Control + Command + F              |
 | 17  | 下へスクロール                       | Space bar             | Space bar                          |
 | 18  | 上へスクロール                       | shift + Space bar     | shift + Space bar                  |
